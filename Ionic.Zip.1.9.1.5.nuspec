@@ -16,6 +16,5 @@
   </metadata>
   <files>
     <file src="lib\Ionic.Zip.dll" target="lib\Ionic.Zip.dll" />
-    <file src="nuget.bat" target="nuget.bat" />
   </files>
 </package>
