@@ -15,6 +15,6 @@
     <tags>Ionic.Zip</tags>
   </metadata>
   <files>
-    <file src="lib\Ionic.Zip.dll" target="lib\Ionic.Zip.dll" />
+    <file src="lib\Ionic.Zip.dll" target="lib\net35\Ionic.Zip.dll" />
   </files>
 </package>
